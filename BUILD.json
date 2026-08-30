@@ -1,1 +1,1 @@
-{"build_id":"e2f917733c948cbdcaa64870257e0fd3e9bc0a88f314db8d69a95801a8a638dc","host_activation":{"action":"reload","host":"claude-code","required_after_install":true},"host_plugin_version":"0.11.48","product_version":"0.11.48","schema_version":1,"service_protocol":1}
+{"build_id":"8f82b277f5cbf3fa9e865fb9c43e96923923f5603a4b1b4a74eb75805142bf39","host_activation":{"action":"reload","host":"claude-code","required_after_install":true},"host_plugin_version":"0.11.49","product_version":"0.11.49","schema_version":1,"service_protocol":1}
